@@ -1,0 +1,54 @@
+{
+  "devices": [
+    {
+      "group": "9203",
+      "division": "1-ChQV",
+      "name": "test",
+      "ip": "192.168.1.1",
+      "interval": 30,
+      "alert": true,
+      "online": true,
+      "last_ms": 0
+    },
+    {
+      "group": "9202",
+      "division": "1-ChQV",
+      "name": "test 2",
+      "ip": "192.168.1.1",
+      "interval": 30,
+      "alert": false,
+      "online": true,
+      "last_ms": 0
+    },
+    {
+      "group": "Default",
+      "division": "Boshqarma",
+      "name": "Device 192.168.1.2",
+      "ip": "192.168.1.2",
+      "interval": 30,
+      "alert": false,
+      "online": true,
+      "last_ms": 0
+    },
+    {
+      "group": "Default",
+      "division": "Boshqarma",
+      "name": "Device 192.168.1.3",
+      "ip": "192.168.1.3",
+      "interval": 30,
+      "alert": false,
+      "online": true,
+      "last_ms": 0
+    },
+    {
+      "group": "Default",
+      "division": "Boshqarma",
+      "name": "Device 192.168.1.4",
+      "ip": "192.168.1.4",
+      "interval": 30,
+      "alert": false,
+      "online": true,
+      "last_ms": 0
+    }
+  ]
+}
